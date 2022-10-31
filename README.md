@@ -4,7 +4,7 @@ Data is scraped from a an open sourced collection of IPA phonetical sounds prono
 
 **Potential limitations** include biasing the model to the speaker's unique annunciations. Moreover, it should not scale to cases where dental or mouth medical accessories (or mouth deformaties) are introduced.
 
-**Goal** develop live inner-mouth visualization to aid in the learning of particular annuciations, and allow learners to visually reflect and review differences between their annunciation and that of an expert linguist/orator. 
+**Goal** develop live inner-mouth visualization to aid in the learning of particular annunciations, and allow learners to visually reflect and review differences between their annunciation and that of an expert linguist/orator. 
 
 <br>
 
